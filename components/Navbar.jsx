@@ -10,7 +10,7 @@ export default function Navbar() {
         <a className='flex items-center gap-1' href="#">signUp<RiContactsFill/></a>
         <div className="relative">
           <a className='text-2xl md:text-2xl' href="#"><AiOutlineShoppingCart/></a>
-          <p className="bg-orange-300 text-white absolute top-[-2] right-[-5] text-sm rounded-full w-4 h-4 md:w-4 md:h-4 flex items-center justify-center">0</p>
+          <p className="bg-orange-300 text-white absolute top-[-35%] right-[-28%] text-sm rounded-full w-4 h-4 md:w-4 md:h-4 flex items-center justify-center">0</p>
         </div>
       </div>
     </div>
